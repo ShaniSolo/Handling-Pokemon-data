@@ -1,4 +1,4 @@
-##Pokemon Project - Handling Pokemon data
+#Pokemon Project - Handling Pokemon data
 This exercise is built on a sql database, that migrates Pokémon data into a DB and define queries over the DB. and continues by building a Pokémon API using Flask.
 
 ###About
